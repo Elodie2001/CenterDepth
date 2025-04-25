@@ -21,3 +21,15 @@ torchaudio
 torchvision
 dcnv2
 ~~~
+
+## Training
+
+Download virDepth into ./data
+~~~
+main.py ctdet --exp_id [export dir name] --arch [disdlaconv2d_34, hourglass, resdcn_18, res_18] --gpu 0
+~~~
+
+## Testing
+~~~
+test.py ctdet --exp_id [export dir name] --load_model [model path] --arch [disdlaconv2d_34, hourglass, resdcn_18, res_18] --gpu 0
+~~~
