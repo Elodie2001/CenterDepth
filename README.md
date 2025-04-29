@@ -5,7 +5,7 @@ Virtual Datasets: virDepth.
 
 > [**Depth as points**](https://arxiv.org/abs/2504.18773)
 > 
-> coming soon
+> Paper in arvix.
 > 
 > [**Download virDepth**](https://pan.baidu.com/s/1NRKlb4PAvrViTD7QrsaERQ)
 > 
