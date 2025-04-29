@@ -3,7 +3,7 @@ Depth estimation using target center points.
 
 Virtual Datasets: virDepth.
 
-> [**Depth as points**]()
+> [**Depth as points**](https://arxiv.org/abs/2504.18773)
 > 
 > coming soon
 > 
