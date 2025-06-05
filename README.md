@@ -33,3 +33,9 @@ main.py ctdet --exp_id [export dir name] --arch [disdlaconv2d_34, hourglass, res
 ~~~
 test.py ctdet --exp_id [export dir name] --load_model [model path] --arch [disdlaconv2d_34, hourglass, resdcn_18, res_18] --gpu 0
 ~~~
+
+## Data Genrating
+~~~
+Install CARLA
+python datagenerator_egocar.py
+~~~
